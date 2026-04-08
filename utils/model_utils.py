@@ -2,7 +2,9 @@ import torch
 from argparse import Namespace
 
 import sys
-sys.path.extend(['.', '..'])
+sys.path.append('/workspace/encuesta/hyperstyle')
+sys.path.append('.')
+sys.path.append('..')
 
 from models.stylegan2.model import Generator
 from models.hyperstyle import HyperStyle

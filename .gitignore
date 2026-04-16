@@ -1,0 +1,3 @@
+pretrained_models/hyperstyle_ffhq.pt
+models/ffhq2.pkl
+pretrained_models/faces_w_encoder.pt

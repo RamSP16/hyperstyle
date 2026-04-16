@@ -8,7 +8,7 @@ import torch
 import copy
 import numpy as np
 import sys, os
-sys.path.append('/workspace/encuesta/stylegan2-ada-pytorch')
+sys.path.append('/workspace/hyperencuesta/stylegan2-ada-pytorch')
 import legacy
 import dnnlib
 from pickle import load

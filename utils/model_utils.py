@@ -2,7 +2,7 @@ import torch
 from argparse import Namespace
 
 import sys
-sys.path.append('/workspace/encuesta/hyperstyle')
+sys.path.append('/workspace/hyperencuesta/hyperstyle')
 sys.path.append('.')
 sys.path.append('..')
 
